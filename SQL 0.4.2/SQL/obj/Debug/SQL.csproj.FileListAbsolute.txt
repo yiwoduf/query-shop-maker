@@ -1,0 +1,40 @@
+c:\users\peter lee\documents\visual studio 2015\Projects\SQL\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+c:\users\peter lee\documents\visual studio 2015\Projects\SQL\SQL\obj\Debug\SQL.Form1.resources
+c:\users\peter lee\documents\visual studio 2015\Projects\SQL\SQL\obj\Debug\SQL.csproj.GenerateResource.Cache
+C:\Users\Peter Lee\Documents\Visual Studio 2015\Projects\SQL\SQL\bin\Debug\MetroFramework.dll
+C:\Users\Peter Lee\Documents\Visual Studio 2015\Projects\SQL\SQL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Peter Lee\Documents\Visual Studio 2015\Projects\SQL\SQL\bin\Debug\QueryShopMaker.exe.config
+C:\Users\Peter Lee\Documents\Visual Studio 2015\Projects\SQL\SQL\bin\Debug\QueryShopMaker.exe
+C:\Users\Peter Lee\Documents\Visual Studio 2015\Projects\SQL\SQL\bin\Debug\QueryShopMaker.pdb
+C:\Users\Peter Lee\Documents\Visual Studio 2015\Projects\SQL\SQL\obj\Debug\치우씨SQL상점메이커.Properties.Resources.resources
+C:\Users\Peter Lee\Documents\Visual Studio 2015\Projects\SQL\SQL\obj\Debug\QueryShopMaker.exe
+C:\Users\Peter Lee\Documents\Visual Studio 2015\Projects\SQL\SQL\obj\Debug\QueryShopMaker.pdb
+C:\Users\Peter Lee\Desktop\SQL\SQL\bin\Debug\QueryShopMaker.exe.config
+C:\Users\Peter Lee\Desktop\SQL\SQL\obj\Debug\QueryShopMaker.exe
+C:\Users\Peter Lee\Desktop\SQL\SQL\obj\Debug\QueryShopMaker.pdb
+C:\Users\Peter Lee\Desktop\SQL 0.4.2\SQL\bin\Debug\QSM0.4.2.exe.config
+C:\Users\Peter Lee\Desktop\SQL 0.4.2\SQL\bin\Debug\QSM0.4.2.exe
+C:\Users\Peter Lee\Desktop\SQL 0.4.2\SQL\bin\Debug\QSM0.4.2.pdb
+C:\Users\Peter Lee\Desktop\SQL 0.4.2\SQL\bin\Debug\MetroFramework.dll
+C:\Users\Peter Lee\Desktop\SQL 0.4.2\SQL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Peter Lee\Desktop\SQL 0.4.2\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+C:\Users\Peter Lee\Desktop\SQL 0.4.2\SQL\obj\Debug\SQL.Form1.resources
+C:\Users\Peter Lee\Desktop\SQL 0.4.2\SQL\obj\Debug\치우씨SQL상점메이커.Form2.resources
+C:\Users\Peter Lee\Desktop\SQL 0.4.2\SQL\obj\Debug\치우씨SQL상점메이커.Properties.Resources.resources
+C:\Users\Peter Lee\Desktop\SQL 0.4.2\SQL\obj\Debug\SQL.csproj.GenerateResource.Cache
+C:\Users\Peter Lee\Desktop\SQL 0.4.2\SQL\obj\Debug\QSM0.4.2.exe
+C:\Users\Peter Lee\Desktop\SQL 0.4.2\SQL\obj\Debug\QSM0.4.2.pdb
+C:\Users\Peter Lee\Desktop\예전폴더\SQL 0.4.2\SQL\bin\Debug\QSM0.4.2.exe.config
+C:\Users\Peter Lee\Desktop\예전폴더\SQL 0.4.2\SQL\obj\Debug\QSM0.4.2.exe
+C:\Users\Peter Lee\Desktop\예전폴더\SQL 0.4.2\SQL\obj\Debug\QSM0.4.2.pdb
+C:\Users\Design\Desktop\SQL 0.4.2\SQL\bin\Debug\QSM0.4.2.exe.config
+C:\Users\Design\Desktop\SQL 0.4.2\SQL\obj\Debug\QSM0.4.2.exe
+C:\Users\Design\Desktop\SQL 0.4.2\SQL\obj\Debug\QSM0.4.2.pdb
+C:\Users\Design\Desktop\SQL 0.4.2\SQL\bin\Debug\QSM0.4.2.exe
+C:\Users\Design\Desktop\SQL 0.4.2\SQL\bin\Debug\QSM0.4.2.pdb
+C:\Users\Design\Desktop\SQL 0.4.2\SQL\bin\Debug\MetroFramework.dll
+C:\Users\Design\Desktop\SQL 0.4.2\SQL\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Design\Desktop\SQL 0.4.2\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+C:\Users\Design\Desktop\SQL 0.4.2\SQL\obj\Debug\SQL.Form1.resources
+C:\Users\Design\Desktop\SQL 0.4.2\SQL\obj\Debug\치우씨SQL상점메이커.Properties.Resources.resources
+C:\Users\Design\Desktop\SQL 0.4.2\SQL\obj\Debug\SQL.csproj.GenerateResource.Cache

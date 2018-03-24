@@ -1,0 +1,9 @@
+INSERT INTO `shopitems` (`shopitemid`, `shopid`, `itemid`, `price`, `position`, `pricequantity`, `Tab`, `quantity`, `period`, `limititem`) VALUES
+(.,,,,,,.,),
+(.,,,,,,.,),
+(.,,,,,,.,),
+(.,,,,,,.,),
+(.,,,,,,.,);
+
+INSERT INTO `shops` (`shopid`,`npcid`) VALUES
+(,);
